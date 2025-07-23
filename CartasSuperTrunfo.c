@@ -4,9 +4,7 @@
 // Tema 1 - Cadastro das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
 // Siga os comentários para implementar cada parte do desafio.
-//Teste larissa
-
-int main() {#include <stdio.h>
+//Teste Lucas Reis
 
 int main() {
     char estado, codigo[4], nomeCidade[50];
